@@ -1,4 +1,4 @@
-package Encapsulation_Constructor_WrapperClass;// Constructor zəncirləməsi ilə kitab sinfi
+package Encapsulation;// Constructor zəncirləməsi ilə kitab sinfi
 
 public class Book {
 
