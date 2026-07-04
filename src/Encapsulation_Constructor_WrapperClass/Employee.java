@@ -1,4 +1,4 @@
-// Maaş təyini və validation-u olan işçi class-ı
+package Encapsulation_Constructor_WrapperClass;// Maaş təyini və validation-u olan işçi class-ı
 
 public class Employee {
 
